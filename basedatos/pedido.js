@@ -42,4 +42,5 @@ async function eliminar(idpedido) {
     }
 }
 
+
 module.exports = { insertar, consultar, update, eliminar };

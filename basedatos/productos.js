@@ -42,5 +42,6 @@ async function eliminar(idproducto) {
     }
 }
 
+
 module.exports = { insertar, consultar, update, eliminar };
 

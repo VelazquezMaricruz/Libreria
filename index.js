@@ -7,7 +7,7 @@ app.use(morgan('dev'));
 app.use(express.json());
 app.use(cors());
 
-app.get('/',(peti, resp)=>{
+app.get('/',(peti, resp) => {
     resp.send('Hola Mundo');
 });
 

@@ -5,4 +5,5 @@ const PEDIDO = [
      fechaentrega:20/07/2022,
      } 
  ]
+ 
  module.exports = PEDIDO;

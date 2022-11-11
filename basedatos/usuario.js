@@ -41,4 +41,5 @@ async function eliminar(idusuario) {
     }
 }
 
+
 module.exports = { insertar, consultar, update, eliminar };

@@ -6,4 +6,5 @@ const PRODUCTOS = [
     productooferta:0,
     marcapro:"maped"} 
 ]
+
 module.exports = PRODUCTOS;
